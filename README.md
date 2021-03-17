@@ -1,6 +1,6 @@
 # kbone-ui
 
-基于 kbone，利用 Vue 语法，实现一套跨平台开发的 UI 库内容。
+基于 kbone，利用 Vue 语法，实现一套跨平台开发的 UI 库内容。fork from [kbone-template-kboneui](https://github.com/wechat-miniprogram/kbone-template-kboneui)，升级了下kbone-ui到1.x，稍微改了下文件夹路径，亲测小程序端，h5端都可用。
 
 ## 特性
 
